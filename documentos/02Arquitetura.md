@@ -1,4 +1,4 @@
-# cgatGpt: quais seriam as pastas e os arquivos de um projeto na arquitura mvc da funcionalidade criar usuários?
+# cgatGpt: Em um projeto typescript, quais seriam as pastas e os arquivos de um projeto na arquitura mvc da funcionalidade criar usuários?
 
 ```lua
 meu-projeto
@@ -50,6 +50,8 @@ meu-projeto
 
 Aprofundando:
 
-# pesquisr no google: arquitetura mvc router
+# pesquisar no google: arquitetura mvc router
 
-# pesquisr no google: arquitetura mvc model
+# pesquisar no google: arquitetura mvc model
+
+# cgatGpt:: qual a responsabilidade de cada classe no mvc

@@ -1,4 +1,4 @@
-# cgatGpt: crie um teste vazio com a os comentarios Give(dado que) when(quando acontecer algo) then(então) para inicar um test
+# cgatGpt: crie um teste vazio, só com comentários, para o typescript com a os comentarios Give(dado que) when(quando acontecer algo) then(então) para inicar um test
 
 ```js
 describe("Usuario Class", () => {
@@ -22,6 +22,8 @@ describe("Usuario Class", () => {
 # Qual classe desejo implementar? Ex.: Usuário
 
 crie o arquivo de teste: Usuario.test.ts
+
+# cgatGpt: crie um teste em typescript para implementar uma classe Usuario utilizando o TDD
 
 ```js
 describe("Classe usuario", () => {
